@@ -6,7 +6,7 @@ import pandas as pd
 class Conexion(Enum):
     HOST = "localhost"
     USER = "root"
-    PASSWORD = "Ab@ntonio347"
+    PASSWORD = "AAAAAA" #cambiar por tu contraseña
     DATABASE = "Twitter"
     ARCHIVO = "datasets/bitcoin-tweets.csv"
 
